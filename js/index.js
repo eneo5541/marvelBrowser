@@ -26,7 +26,7 @@ function getComicsList (url, title) {
 		if (data && data.data && data.data.results)
 		{
 			Ractive.load('./partials/list.html').then(function (List) {
-				navigationStack.push({ f: getComicsList, p: [url, title] });
+				navigateTo(getComicsList, [url, title]);
 				ractive = new List({
 					el: 'main',
 					data: {
@@ -51,7 +51,7 @@ function getComicDetails (event, value)
 		if (data && data.data && data.data.results)
 		{
 			Ractive.load('./partials/detail.html').then(function (Detail) {
-				navigationStack.push({ f: getComicDetails, p: [event, value] });
+				navigateTo(getComicDetails, [event, value]);
 				ractive = new Detail({
 					el: 'main',
 					data: { payload : data.data.results[0] }
@@ -77,7 +77,7 @@ function getSeriesList (event, value)
 		if (data && data.data && data.data.results)
 		{
 			Ractive.load('./partials/list.html').then(function (List) {
-				navigationStack.push({ f: getSeriesList, p: [event, value] });
+				navigateTo(getSeriesList, [event, value]);
 				ractive = new List({
 					el: 'main',
 					data: {
@@ -93,6 +93,15 @@ function getSeriesList (event, value)
 		}
 	});
 	return ractive;
+}
+
+function navigateTo(f, p)
+{
+	if (f && navigationStack)
+	{
+		if (navigationStack.length == 0 || navigationStack[navigationStack.length - 1].f != f)
+			navigationStack.push({ f: f, p: p });
+	}
 }
 
 function parseWeekDuration ()
