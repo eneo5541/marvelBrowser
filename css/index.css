@@ -1,0 +1,54 @@
+body {
+	padding-top: 20px;
+	font-family: "Helvetica", "sans-serif";
+}
+
+/** List **/
+
+ul {
+	list-style: none;
+}
+
+.comicsListItem  {
+	border: 1px solid #ddd;
+	clear: both;
+	min-height: 167px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+}
+
+.thumbnail {
+	width: 98px;
+	height: 152px;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	margin: 0px 15px 0px 15px;
+	display: block;
+}
+
+/** Detail **/
+
+.packshot {
+	width: 294px;
+	height: 456px;
+	overflow: hidden;
+	position: relative;
+	float: right;
+	margin: 0px 30px 0px 30px;
+	display: block;
+}
+
+.description {
+	margin: 0px 354px 0px 30px;
+	display: block;
+}
+
+.descriptionHeader {
+	border-bottom: 1px solid gray;
+	height: 64px;
+}
+
+.creditsList {
+    padding: 0px;
+}

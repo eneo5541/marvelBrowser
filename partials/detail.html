@@ -1,0 +1,44 @@
+{{#with payload}}
+<div class="packshot" style="background-image: url({{parseImage(images)}}); background-size:cover;"></div>
+
+<div class="description">
+	<div class="descriptionHeader">
+		<h1 style="float:left;">{{title}}</h1>
+		<h1 style="float:right;">{{parsePrice(prices)}}</h1>
+	</div>
+
+	<p>Series: <a href="#" on-click='getSeriesList:{{series}}'>{{series.name}}</a></p>
+	<ul class="creditsList">
+	{{#each creators.items}}
+		<li>{{role}}: {{name}}</li>
+	{{/each}}
+	</ul>
+	<p>{{description}}</p>
+	<p>Release Date: {{parseReleaseDate(dates)}}</p>
+	<button on-click='purchaseComic:{{urls}}'>Purchase</button>
+</div>
+{{/with}}
+
+<script>
+component.exports = {
+	data: {
+		parseImage: parseImage,
+		parsePrice: parsePrice,
+		parseReleaseDate: function (dates)
+		{
+			if (dates)
+			{
+				for (var i = 0; i < dates.length; i++)
+				{
+					if (dates[i].type && dates[i].date)
+					{
+						if (dates[i].type == "onsaleDate")
+							return $.format.date(dates[i].date, "MMMM d, yyyy");
+					}
+				}
+			}
+			return "";
+		}
+	}
+}
+</script>

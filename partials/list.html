@@ -1,0 +1,20 @@
+<ul class="comicsList">
+	<h1 id="dateTitle">{{title}}</h1>
+	{{#each comics}}
+		<li class="comicsListItem">
+			<a href="#" on-click='getComicDetails:{{id}}'><div class="thumbnail" style="background-image: url({{parseImage(images)}}); background-size:cover;"></div></a>
+			<a href="#" on-click='getComicDetails:{{id}}'>{{title}}</a>
+			<p>{{description}}</p>
+			<p>{{parsePrice(prices)}}</p>
+		</li>
+	{{/each}}
+</ul>
+
+<script>
+component.exports = {
+	data: {
+		parseImage: parseImage,
+		parsePrice: parsePrice
+	}
+} 
+</script>

@@ -1,0 +1,1703 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2015 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2015 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2015 MARVEL</a>",
+  "etag": "b44cfc9097a6f198bb57633c18de43a1a77d47f6",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 14,
+    "count": 14,
+    "results": [
+      {
+        "id": 52057,
+        "digitalId": 0,
+        "title": "M.O.D.O.K. Assassin (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "The impossible has happened: the Mental Organism Designed Only for Killing has fallen head over heels in love! But with the love of his life caught in the crosshairs of Killville’s most ruthless mercenaries, can M.O.D.O.K. hope to stay one step aHEAD of his rivals and live long enough to find out who set her up?",
+        "modified": "2015-07-21T14:23:40-0400",
+        "isbn": "",
+        "upc": "75960608221600311",
+        "diamondCode": "MAY150750",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The impossible has happened: the Mental Organism Designed Only for Killing has fallen head over heels in love! But with the love of his life caught in the crosshairs of Killville’s most ruthless mercenaries, can M.O.D.O.K. hope to stay one step aHEAD of his rivals and live long enough to find out who set her up?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52057",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52057/modok_assassin_2015_3?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/M-O-D-O-K-Assassin-3/digital-comic/39444?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19497",
+          "name": "M.O.D.O.K. Assassin (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/55ae8d3ebd85b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/55ae8d3ebd85b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/5575e26d0ee3a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52057/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7375",
+              "name": "David Lafuente",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7891",
+              "name": "Amilcar Pinna",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+              "name": "Chris Yost",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52057/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52057/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115691",
+              "name": "cover from M.O.D.O.K. Assassin (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115692",
+              "name": "story from M.O.D.O.K. Assassin (2015) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52057/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 51199,
+        "digitalId": 0,
+        "title": "1602 Witch Hunter Angela (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "“IN WHICH WICKED SOMETHINGS THIS WAY COME”\nThe hunt is on! The Faustians have made their deal with the Devil -- er, Enchantress -- but Angela isn’t going to take that lying down, is she? No, not by her psychic ribbons and very, very pointy weapons, no, she is not. Out into the wilds of the countryside, Angela and Sera collide with a wandering caravan of ne’er-do-well performers. (Hint: their name starts with a “G” and ends with an “Y” and has an “Uardians of the Galax” in the middle.) Pagan rites, dubious ethics, a deadly curse, and Kieron and Irene Koh being up to no good – who can resist the lure of the Faustians?",
+        "modified": "2015-07-21T12:43:37-0400",
+        "isbn": "",
+        "upc": "75960608200100211",
+        "diamondCode": "MAY150712",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“IN WHICH WICKED SOMETHINGS THIS WAY COME”\nThe hunt is on! The Faustians have made their deal with the Devil -- er, Enchantress -- but Angela isn’t going to take that lying down, is she? No, not by her psychic ribbons and very, very pointy weapons, no, she is not. Out into the wilds of the countryside, Angela and Sera collide with a wandering caravan of ne’er-do-well performers. (Hint: their name starts with a “G” and ends with an “Y” and has an “Uardians of the Galax” in the middle.) Pagan rites, dubious ethics, a deadly curse, and Kieron and Irene Koh being up to no good – who can resist the lure of the Faustians?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51199",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51199/1602_witch_hunter_angela_2015_2?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/1602-Witch-Hunter-Angela-2/digital-comic/39450?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19244",
+          "name": "1602 Witch Hunter Angela (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55191",
+            "name": "1602 Witch Hunter Angela (2015) #2 (Koh Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/55ae75b04c51a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/55ae75b04c51a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5575bc9103627",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51199/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+              "name": "Stephanie Hans",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51199/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51199/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113975",
+              "name": "cover from 1602 Witch Hunter Angela (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113976",
+              "name": "story from 1602 Witch Hunter Angela (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51199/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52431,
+        "digitalId": 0,
+        "title": "S.H.I.E.L.D. (2014) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "Agent May and Mockingbird, together against a band of super-powered monstrosities whose souls must be found and returned to them if SHIELD is to survive!",
+        "modified": "2015-07-21T15:45:46-0400",
+        "isbn": "",
+        "upc": "75960608155400811",
+        "diamondCode": "MAY150805",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Agent May and Mockingbird, together against a band of super-powered monstrosities whose souls must be found and returned to them if SHIELD is to survive!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52431",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52431/shield_2014_8?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/S-H-I-E-L-D-8/digital-comic/39443?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19639",
+          "name": "S.H.I.E.L.D. (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/55aea044211c1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/55aea044211c1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/5575e692b825c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52431/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2985",
+              "name": "Javier Pulido",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+              "name": "Julian Totino Tedesco",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52431/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52431/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116439",
+              "name": "cover from S.H.I.E.L.D. (2014) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116440",
+              "name": "story from S.H.I.E.L.D. (2014) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52431/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51539,
+        "digitalId": 0,
+        "title": "Black Widow (2014) #20",
+        "issueNumber": 20,
+        "variantDescription": "",
+        "description": "WHO IS THE BLACK WIDOW? What set off her long path of atonement? The creative team that’s brought you the longest run in Black Widow history steps deeper into the psyche of Natasha Romanoff than ever before.",
+        "modified": "2015-07-21T13:18:08-0400",
+        "isbn": "",
+        "upc": "75960607956802011",
+        "diamondCode": "MAY150653",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "WHO IS THE BLACK WIDOW? What set off her long path of atonement? The creative team that’s brought you the longest run in Black Widow history steps deeper into the psyche of Natasha Romanoff than ever before."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51539",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51539/black_widow_2014_20?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Black-Widow-20/digital-comic/37995?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18138",
+          "name": "Black Widow (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/55ae7c735b1e0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/55ae7c735b1e0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5575c5a242ba8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51539/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11799",
+              "name": "Nathan Edmondson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+              "name": "Phil Noto",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51539/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51539/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114655",
+              "name": "cover from Black Widow (2014) #20",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114656",
+              "name": "story from Black Widow (2014) #20",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51539/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 51715,
+        "digitalId": 0,
+        "title": "Deadpool's Secret Secret Wars (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "The war that’s so secret, the rest of the Marvel Universe doesn’t even remember it! Amid the chaos Deadpool dons…a new costume?!?! Plus: our heroes stage a huge attack on the gluttonous GALACTUS!",
+        "modified": "2015-07-21T13:53:59-0400",
+        "isbn": "",
+        "upc": "759606082101000311",
+        "diamondCode": "MAY150762",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The war that’s so secret, the rest of the Marvel Universe doesn’t even remember it! Amid the chaos Deadpool dons…a new costume?!?! Plus: our heroes stage a huge attack on the gluttonous GALACTUS!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51715",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51715/deadpools_secret_secret_wars_2015_3?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-s-Secret-Secret-Wars-3/digital-comic/39446?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19390",
+          "name": "Deadpool's Secret Secret Wars (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55ae861e91c2c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55ae861e91c2c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5575d6686adbc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51715/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+              "name": "Cullen Bunn",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/460",
+              "name": "Tony Harris",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+              "name": "Matteo Lolli",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51715/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51715/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115007",
+              "name": "cover from Deadpool's Secret Secret Wars (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115008",
+              "name": "story from Deadpool's Secret Secret Wars (2015) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51715/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 52351,
+        "digitalId": 0,
+        "title": "Powers (2014) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "The all-new next chapter in the award-winning POWERS continues. As Deena uncovers her father’s past sins, Walker finds himself the personal target of the new Powers serial killer. All this and another exclusive behind-the-scenes look at the Sony POWERS TV show, which will be on the air at the same time that this book ships!",
+        "modified": "2015-07-21T15:32:17-0400",
+        "isbn": "",
+        "upc": "75960608190500411",
+        "diamondCode": "JAN150879",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The all-new next chapter in the award-winning POWERS continues. As Deena uncovers her father’s past sins, Walker finds himself the personal target of the new Powers serial killer. All this and another exclusive behind-the-scenes look at the Sony POWERS TV show, which will be on the air at the same time that this book ships!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52351",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52351/powers_2014_4?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19243",
+          "name": "Powers (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-01T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/55b626a2d67d2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/55b626a2d67d2",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/54b429fd68fac",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52351/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1433",
+              "name": "Mike Avon Oeming",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52351/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52351/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116279",
+              "name": "cover from Powers (2014) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116280",
+              "name": "story from Powers (2014) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52351/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51934,
+        "digitalId": 0,
+        "title": "Guardians Team-Up (2015) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "• A crippled spaceship with a million souls on board. A ruthless force, blasting it all the way to the ground.\nAnd in the middle: Groot and the Silver Surfer, teamed up for a daring rescue! But what mysterious quest can bring them both together in the midst of this conflict? And what is the prize that they may both be willing to sacrifice themselves for?\n",
+        "modified": "2015-07-21T14:13:24-0400",
+        "isbn": "",
+        "upc": "75960608191200811",
+        "diamondCode": "MAY150792",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• A crippled spaceship with a million souls on board. A ruthless force, blasting it all the way to the ground.\nAnd in the middle: Groot and the Silver Surfer, teamed up for a daring rescue! But what mysterious quest can bring them both together in the midst of this conflict? And what is the prize that they may both be willing to sacrifice themselves for?\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51934",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51934/guardians_team-up_2015_8?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Guardians-Team-Up-8/digital-comic/39445?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19453",
+          "name": "Guardians Team-Up (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/55ae8a864c915",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/55ae8a864c915",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5575db805cd88",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51934/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8098",
+              "name": "Bengal",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12442",
+              "name": "Ray Fawkes",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51934/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51934/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115445",
+              "name": "cover from Guardians Team-Up (2015) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115446",
+              "name": "story from Guardians Team-Up (2015) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51934/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52825,
+        "digitalId": 0,
+        "title": "Thors (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "The saga of the Battleworld police force continues! More murders. More mystery. More Thors! (Like GROOT THOR!) And maybe even a break in the case, as a surprising suspect is brought in for questioning…",
+        "modified": "2015-07-21T16:14:14-0400",
+        "isbn": "",
+        "upc": "75960608241400211",
+        "diamondCode": "MAY150655",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The saga of the Battleworld police force continues! More murders. More mystery. More Thors! (Like GROOT THOR!) And maybe even a break in the case, as a surprising suspect is brought in for questioning…"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52825",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52825/thors_2015_2?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thors-2/digital-comic/39441?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19765",
+          "name": "Thors (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-01T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/55aea7266ad73",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/55aea7266ad73",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/5571f94051346",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52825/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3985",
+              "name": "Chris Sprouse",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52825/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52825/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117227",
+              "name": "cover from Thor Corps (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117228",
+              "name": "story from Thor Corps (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52825/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52187,
+        "digitalId": 0,
+        "title": "MARVEL UNIVERSE ULTIMATE SPIDER-MAN: WEB WARRIORS (2014) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "Spider-Man gets to roll with the big boys, as Captain America and Wolverine join him to combat a dangerous new threat to SHIELD.",
+        "modified": "2015-07-21T14:29:10-0400",
+        "isbn": "",
+        "upc": "75960608161500911",
+        "diamondCode": "MAY150803",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man gets to roll with the big boys, as Captain America and Wolverine join him to combat a dangerous new threat to SHIELD."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52187",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52187/marvel_universe_ultimate_spider-man_web_warriors_2014_9?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19563",
+          "name": "MARVEL UNIVERSE ULTIMATE SPIDER-MAN: WEB WARRIORS (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/55564d2500549",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/55564d2500549",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52187/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "writer"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52187/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52187/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115951",
+              "name": "cover from Ultimate Spider-Man: Web Warriors (2014) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115952",
+              "name": "story from Ultimate Spider-Man: Web Warriors (2014) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52187/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51219,
+        "digitalId": 0,
+        "title": "Age of Ultron Vs. Zombies (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "WAR RAGES BETWEEN TWO SIDES OF UNHUMANITY – THE UNDEAD AND THE ARTIFICIAL! As battle escalates between ULTRON’S robotic horde and the ZOMBIE masses, a smaller pocket of humanity must defend themselves from both sides. Can SALVATION—an oasis of sanity amidst utter chaos run by JIM HAMMOND, THE VISION and WONDER MAN—protect what little humanity resides in the “DEADZONE”? And what is the HANK PYM from 1872, a man literally in a world he never made, supposed to do when first encountering the evil of Ultron?",
+        "modified": "2015-07-21T13:01:20-0400",
+        "isbn": "",
+        "upc": "75960608203200211",
+        "diamondCode": "MAY150657",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "WAR RAGES BETWEEN TWO SIDES OF UNHUMANITY – THE UNDEAD AND THE ARTIFICIAL! As battle escalates between ULTRON’S robotic horde and the ZOMBIE masses, a smaller pocket of humanity must defend themselves from both sides. Can SALVATION—an oasis of sanity amidst utter chaos run by JIM HAMMOND, THE VISION and WONDER MAN—protect what little humanity resides in the “DEADZONE”? And what is the HANK PYM from 1872, a man literally in a world he never made, supposed to do when first encountering the evil of Ultron?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51219",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51219/age_of_ultron_vs_zombies_2015_2?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Age-of-Ultron-Vs-Zombies-2/digital-comic/39449?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19247",
+          "name": "Age of Ultron Vs. Zombies (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/54979",
+            "name": "Age of Ultron Vs. Zombies (2015) #2 (Maleev Landscape Wraparound Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/55ae794ebcfaa",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/55ae794ebcfaa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5575c1e5ab7a9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51219/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4999",
+              "name": "Steve Pugh",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+              "name": "James Robinson",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51219/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51219/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114015",
+              "name": "cover from Age of Ultron Vs. Zombies (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114016",
+              "name": "story from Age of Ultron Vs. Zombies (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51219/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 53333,
+        "digitalId": 0,
+        "title": "X-Men '92 (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "ROGUE & GAMBIT...together at last? WOLVERINE face-to-face-to-face with CYBER and OMEGA RED! All orchestrated by THE SHADOW QUEEN! Battleworld’s most ’90sest district’s tubular tale keeps rocking!",
+        "modified": "2015-07-21T16:23:30-0400",
+        "isbn": "",
+        "upc": "75960608264300211",
+        "diamondCode": "MAY150730",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "ROGUE & GAMBIT...together at last? WOLVERINE face-to-face-to-face with CYBER and OMEGA RED! All orchestrated by THE SHADOW QUEEN! Battleworld’s most ’90sest district’s tubular tale keeps rocking!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53333",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/53333/x-men_92_2015_2?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20007",
+          "name": "X-Men '92 (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55246",
+            "name": "X-Men '92 (2015) #2 (Tbd Artist Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/04/55aea8ff806ff",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/04/55aea8ff806ff",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5575eca89bb53",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53333/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+              "name": "Chad Bowers",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+              "name": "Chris Sims",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+              "name": "Pepe Larraz",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53333/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53333/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118030",
+              "name": "cover from X-Men '92 (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118031",
+              "name": "story from X-Men '92 (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53333/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51616,
+        "digitalId": 0,
+        "title": "Daredevil (2014) #17",
+        "issueNumber": 17,
+        "variantDescription": "",
+        "description": "It all comes down to this – the penultimate chapter! Matt Murdock’s made a deal with his own personal devil, and unless he can outsmart the strongest, toughest opponent he’s ever known, no one walks out alive!",
+        "modified": "2015-07-21T13:47:00-0400",
+        "isbn": "",
+        "upc": "75960607998801711",
+        "diamondCode": "MAY150793",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It all comes down to this – the penultimate chapter! Matt Murdock’s made a deal with his own personal devil, and unless he can outsmart the strongest, toughest opponent he’s ever known, no one walks out alive!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51616",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51616/daredevil_2014_17?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Daredevil-17/digital-comic/39448?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18457",
+          "name": "Daredevil (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/55ae8446e32b8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/55ae8446e32b8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5575d47ccbb6e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51616/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+              "name": "Chris Samnee",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51616/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51616/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114809",
+              "name": "cover from Daredevil (2014) #17",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114810",
+              "name": "story from Daredevil (2014) #17",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51616/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51778,
+        "digitalId": 0,
+        "title": "Deathlok (2014) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "OUT OF CONTROL AND OUT OF TIME! Henry Hayes faces S.H.I.E.L.D., BIOTEK and another DEATHLOK. What options does he have – but to die?",
+        "modified": "2015-07-21T14:02:14-0400",
+        "isbn": "",
+        "upc": "75960608126401011",
+        "diamondCode": "MAY150807",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "OUT OF CONTROL AND OUT OF TIME! Henry Hayes faces S.H.I.E.L.D., BIOTEK and another DEATHLOK. What options does he have – but to die?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51778",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51778/deathlok_2014_10?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deathlok-10/digital-comic/39442?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19405",
+          "name": "Deathlok (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/55ae87e394256",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/55ae87e394256",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5575d95ec748c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51778/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11799",
+              "name": "Nathan Edmondson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+              "name": "Mike Perkins",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51778/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51778/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115133",
+              "name": "cover from Deathlok (2014) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/115134",
+              "name": "story from Deathlok (2014) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51778/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52658,
+        "digitalId": 0,
+        "title": "Star Wars (2015) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "A special one-off tale of Ben Kenobi! Injustice reigns on Tatooine as villainous scum run rampant. Will Ben risk revealing himself to do what’s right? Guest Artist Simone Bianchi (WOLVERINE, ASTONISHING X-MEN) joins writer Jason Aaron for this special tale!",
+        "modified": "2015-07-21T15:58:55-0400",
+        "isbn": "",
+        "upc": "75960608113400711",
+        "diamondCode": "MAY150775",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A special one-off tale of Ben Kenobi! Injustice reigns on Tatooine as villainous scum run rampant. Will Ben risk revealing himself to do what’s right? Guest Artist Simone Bianchi (WOLVERINE, ASTONISHING X-MEN) joins writer Jason Aaron for this special tale!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52658",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52658/star_wars_2015_7?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Star-Wars-7/digital-comic/39237?utm_campaign=apiRef&utm_source=dcf136c1ecec5f0a3adcf6dfd294573c"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19242",
+          "name": "Star Wars (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-01T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/55955d396e3fa",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/55955d396e3fa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/556f22776ba51",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52658/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+              "name": "Simone Bianchi",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+              "name": "John Cassaday",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52658/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52658/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116893",
+              "name": "cover from Star Wars (2015) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116894",
+              "name": "story from Star Wars (2015) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52658/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+              "name": "Star Wars"
+            }
+          ],
+          "returned": 1
+        }
+      }
+    ]
+  }
+}
