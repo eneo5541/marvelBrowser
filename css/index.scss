@@ -1,0 +1,10 @@
+/* index.scss */
+
+@import 'list';
+@import 'detail';
+@import 'variables';
+
+body {
+	padding-top: $verticalMargin;
+	font-family: $primaryFont;
+}

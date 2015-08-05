@@ -1,0 +1,29 @@
+// _detail.scss
+
+@import 'variables';
+@import 'list';
+
+$packshotWidth: $thumbnailWidth * 3;
+$packshotHeight: $thumbnailHeight * 3;
+
+.packshot {
+	@extend .thumbnail;
+	width: $packshotWidth;
+	height: $packshotHeight;
+	margin: 0px (2 * $verticalMargin) 0px (2 * $verticalMargin);
+	float: right;
+}
+
+.description {
+	margin: 0px ($packshotWidth + ($verticalMargin * 3)) 0px (2 * $verticalMargin);
+	display: block;
+}
+
+.descriptionHeader {
+	border-bottom: $greyBorder;
+	height: 64px;
+}
+
+.creditsList {
+    padding: 0px;
+}

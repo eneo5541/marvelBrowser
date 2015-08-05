@@ -1,0 +1,28 @@
+// _detail.scss
+
+@import 'variables';
+
+$thumbnailWidth: 98px;
+$thumbnailHeight: 152px;
+
+ul {
+	list-style: none;
+}
+
+.comicsListItem  {
+	border: $greyBorder;
+	clear: both;
+	min-height: 167px;
+	padding-top: $verticalMargin;
+	margin-bottom: $verticalMargin;
+}
+
+.thumbnail {
+	width: $thumbnailWidth;
+	height: $thumbnailHeight;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	margin: 0px $verticalMargin 0px $verticalMargin;
+	display: block;
+}
